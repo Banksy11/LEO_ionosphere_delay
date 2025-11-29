@@ -71,3 +71,4 @@ plt.tight_layout()
 plt.savefig('ionosphere_profile_presentation.png', dpi=300)
 
 print("ionosphere_profile_presentation.png")
+plt.show()
